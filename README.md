@@ -99,6 +99,8 @@ Here are some ideas for contributions:
 2. Improve the user interface.
 3. Write tests for the translation function.
 
+# 🔴 NOTE: After downloading the models (using each language for the first time ), you can use the app offline.
+ The internet is required only the first time.
 
 Happy translating! 🎉
 
