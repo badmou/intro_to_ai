@@ -18,5 +18,5 @@ Hugging Face Transformers: A library that provides easy access to pre-trained AI
 SentencePiece: A library for text tokenization, which helps the AI understand and process text.
 # 📦 Setup Instructions
 Install Dependencies: Open your terminal and run the following command to install the necessary libraries:
-''' pip install streamlit transformers sentencepiece
-'''
+```pip install streamlit transformers sentencepiece
+```
