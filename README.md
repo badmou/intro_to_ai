@@ -98,6 +98,8 @@ Here are some ideas for contributions:
 1. Add support for more languages.
 2. Improve the user interface.
 3. Write tests for the translation function.
+
+
 Happy translating! 🎉
 
 
