@@ -38,8 +38,11 @@ Pre-trained models are like smart assistants that have already learned a lot fro
 Specifically, we use the MarianMT models from Hugging Face, which are designed for translation tasks. These models have been trained on vast amounts of multilingual data, making them highly effective at understanding and generating text in different languages.
 # 📸 Screenshots
 Here’s what the app looks like:
+
 ![interface](https://github.com/user-attachments/assets/10639ee0-049a-4e19-a609-04f7d8a2a6ed)
+
 And here’s an example of a translation:
+
 ![translation](https://github.com/user-attachments/assets/1de5717e-0358-4ac7-afb7-c6143097896a)
 # 🌟 Want to Learn More?
 . Streamlit Documentation: Learn how to build more apps with Streamlit.
